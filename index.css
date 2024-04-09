@@ -50,7 +50,7 @@ body {
   font-size: 15px;
   color: #FFFFFF;
   line-height: 26px;
-  opacity: 65%;
+  opacity: 75%;
   margin-bottom: 66px;
   width: 374px;
   letter-spacing: .4px;
@@ -76,7 +76,7 @@ body {
 .unit {
   font-family: lexend deca;
   font-size: 12px;
-  font-weight: 200;
+  font-weight: 300;
   opacity: 65%;
   letter-spacing: .7px;
 
